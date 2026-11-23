@@ -1,0 +1,64 @@
+{
+  "name": "LANDINVEST IL",
+  "version": "1.1",
+  "color": {
+    "teal": "#003E46",
+    "action": "#005761",
+    "emerald": "#008A72",
+    "ink": "#172328",
+    "muted": "#5E6A6F",
+    "mint": "#EAF5F3",
+    "line": "#CAD8D6",
+    "paper": "#F4F6F6",
+    "white": "#FFFFFF",
+    "field": "#718381",
+    "error": "#963D34"
+  },
+  "font": {
+    "web": "LANDINVEST Web, Arial, sans-serif",
+    "office": "Arial",
+    "weights": {
+      "regular": 400,
+      "bold": 700
+    }
+  },
+  "type": {
+    "displayMin": 40,
+    "displayMax": 72,
+    "sectionMin": 32,
+    "sectionMax": 48,
+    "subheading": 24,
+    "lead": 20,
+    "body": 16,
+    "small": 14,
+    "label": 12
+  },
+  "lineHeight": {
+    "heading": 1.05,
+    "body": 1.55
+  },
+  "space": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64,
+    96
+  ],
+  "radius": {
+    "control": 4,
+    "panel": 8
+  },
+  "layout": {
+    "container": 1200,
+    "gutterMobile": 20,
+    "gutterDesktop": 48,
+    "tablet": 640,
+    "desktop": 960,
+    "touchTarget": 44,
+    "focusWidth": 3
+  }
+}

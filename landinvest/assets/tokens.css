@@ -1,0 +1,42 @@
+@font-face { font-family: "LANDINVEST Web"; src: url("./fonts/LiberationSans-Regular.ttf") format("truetype"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "LANDINVEST Web"; src: url("./fonts/LiberationSans-Bold.ttf") format("truetype"); font-weight: 700; font-style: normal; font-display: swap; }
+
+:root {
+  --li-color-teal: #003E46;
+  --li-color-action: #005761;
+  --li-color-emerald: #008A72;
+  --li-color-ink: #172328;
+  --li-color-muted: #5E6A6F;
+  --li-color-mint: #EAF5F3;
+  --li-color-line: #CAD8D6;
+  --li-color-paper: #F4F6F6;
+  --li-color-white: #FFFFFF;
+  --li-color-field: #718381;
+  --li-color-error: #963D34;
+  --li-space-4: 4px;
+  --li-space-8: 8px;
+  --li-space-12: 12px;
+  --li-space-16: 16px;
+  --li-space-24: 24px;
+  --li-space-32: 32px;
+  --li-space-48: 48px;
+  --li-space-64: 64px;
+  --li-space-96: 96px;
+  --li-font: LANDINVEST Web, Arial, sans-serif;
+  --li-radius-control: 4px;
+  --li-radius-panel: 8px;
+  --li-container: 1200px;
+  --li-gutter-mobile: 20px;
+  --li-gutter-desktop: 48px;
+  --li-touch-target: 44px;
+  --li-focus-width: 3px;
+  --li-text-display: clamp(40px, 5.1vw, 72px);
+  --li-text-section: clamp(32px, 3.5vw, 48px);
+  --li-text-subheading: 24px;
+  --li-text-lead: 20px;
+  --li-text-body: 16px;
+  --li-text-small: 14px;
+  --li-text-label: 12px;
+  --li-leading-heading: 1.05;
+  --li-leading-body: 1.55;
+}
