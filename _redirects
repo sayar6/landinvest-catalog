@@ -1,0 +1,8 @@
+/product/:id / 200
+/product/:id/ / 200
+/range / 200
+/range/ / 200
+/quote / 200
+/quote/ / 200
+/about / 200
+/about/ / 200
